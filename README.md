@@ -1,5 +1,8 @@
 # Ghostwritten Studios — BiRefNet Background Removal
 
+<img width="1920" height="946" alt="image" src="https://github.com/user-attachments/assets/3b0a241c-1784-4c75-b1ca-02ed61c2695e" />
+
+
 A **self-contained** ComfyUI custom node for BiRefNet background removal. It does
 not depend on any other third-party ComfyUI extension, so a ComfyUI update can't
 silently break the app that relies on it. The only external piece is the model
