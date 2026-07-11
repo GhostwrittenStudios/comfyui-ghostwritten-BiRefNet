@@ -1,0 +1,9 @@
+# BiRefNet weights are pulled through transformers with trust_remote_code.
+# torch + transformers already ship with ComfyUI; these are listed for
+# completeness / standalone installs.
+transformers>=4.39
+torch>=2.0
+# BiRefNet's remote code imports these:
+timm
+einops
+kornia
